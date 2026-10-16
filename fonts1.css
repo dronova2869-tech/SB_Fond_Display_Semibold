@@ -1,7 +1,26 @@
+/* SB Sans Display Regular */
+@font-face {
+  font-family: 'SB Sans Display';
+  src: url('./SBSansDisplay-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SB Sans Display SemiBold */
 @font-face {
   font-family: 'SB Sans Display';
   src: url('./SBSansDisplay-SemiBold.ttf') format('truetype');
   font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SB Sans Text Regular */
+@font-face {
+  font-family: 'SB Sans Text';
+  src: url('./SBSansText-Regular.ttf') format('truetype');
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
